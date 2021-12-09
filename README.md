@@ -1,2 +1,2 @@
 # CastleBomber
- Simple Java game made for school. ~2021
+ Simple Processing game made for school. ~2021
